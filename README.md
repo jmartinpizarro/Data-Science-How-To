@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Correr el notebook
 
-**ES IMPORTANTE TENER EL ENTORNO VIRTUAL `.venv` ACTIVADO (`source .venv/bin/activate` o `.venv/Scripts/activate`)
+**ES IMPORTANTE TENER EL ENTORNO VIRTUAL `.venv` ACTIVADO (`source .venv/bin/activate` o `.venv/Scripts/activate`)**
 Aunque puede ejecutarse en un Colab de Google, es preferible usarlo en un Jupyter Notebook. La preferencia final corresponde a cada usuario.
 
 ```bash
